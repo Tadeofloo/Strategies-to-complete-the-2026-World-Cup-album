@@ -16,6 +16,9 @@ To find the most viable path to completion, the research was divided into severa
 
 ## Key Findings: The Power of 10
 The research concludes that the most efficient strategy is the **10-Node Collaborative Network**. 
+
+![Hybrid Optimization Chart]("Screenshot from 2026-05-11 19-0819.png")
+
 * **Cost Efficiency:** While an individual might spend upwards of $21,000 MXN to finish via packs, a member of a 10-person P2P network reaches completion with an average of **$5,400 - $5,600 MXN**.
 * **Risk Mitigation:** Collaboration acts as a natural buffer against "bad luck" in pack openings, tightening the standard deviation of the total cost and making the budget highly predictable.
 * **Optimal Pivot:** For a 10-person group, the mathematical "Sweet Spot" to stop buying packs is **95%**. At this point, the group should buy the remaining specific stickers to close the collection.
