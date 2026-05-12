@@ -20,6 +20,8 @@ The research concludes that the most efficient strategy is the **10-Node Collabo
 * **Risk Mitigation:** Collaboration acts as a natural buffer against "bad luck" in pack openings, tightening the standard deviation of the total cost and making the budget highly predictable.
 * **Optimal Pivot:** For a 10-person group, the mathematical "Sweet Spot" to stop buying packs is **95%**. At this point, the group should buy the remaining specific stickers to close the collection.
 
+![Hybrid Optimization Chart](image.png)
+
 ## How to Run
 This project is contained within a Jupyter Notebook. To replicate the simulations and generate the charts:
 
